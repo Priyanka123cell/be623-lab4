@@ -1,0 +1,4 @@
+Human glucagon mRNA, complete cds
+Gene ID: 2641
+Uniprot id - P01275
+PDB- 9IVG 
